@@ -16,7 +16,7 @@ public class ASCIIOfUpperCaseAlphabet {
         System.out.println("the actual position: " + actualPosition);
 
         int lowerCase = alphabet + 32; // in lowercase
-        System.out.println("lowercase: " + (char) lowerCase);
+            System.out.println("lowercase: " + (char) lowerCase);
 
         sc.close(); // prevent the data from being leaked ..
 
