@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class NumberPlay1 {
+public class NumberSwapWithoutTemp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

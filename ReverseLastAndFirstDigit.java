@@ -1,8 +1,8 @@
-// Problem ; take 3 digit number , add the digits & reverse it's first number & last number ..
+// Problem ; take 3 digit number , add it's digits & reverse the first digit & the last digit ..
 
 import java.util.Scanner;
 
-public class NumberPlay2 {
+public class ReverseLastAndFirstDigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

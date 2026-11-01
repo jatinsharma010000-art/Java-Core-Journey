@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class PuzzleB {
+public class NumberFlip {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class PuzzleA {
+public class SameSignNumberCheck {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
