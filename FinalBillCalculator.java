@@ -1,10 +1,10 @@
-
 // Problem ; calculator that add the price of the 3 items along with the Tax.
+
 import java.util.Scanner;
 
 public class FinalBillCalculator {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); //
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("1st item price : ");
         int item1 = sc.nextInt();
